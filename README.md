@@ -20,7 +20,7 @@ Today's endpoints are:
 
 In order to [POST] a new friend we must supply several required fields.
 
-```js
+js
   // example of a new friend
   {
     "username": "Tom",
@@ -28,4 +28,4 @@ In order to [POST] a new friend we must supply several required fields.
     "role": "tl",
     "civil": "single"
   }
-```
+
